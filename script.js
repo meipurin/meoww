@@ -40,13 +40,13 @@ $(function () {
     ],
     albumArtworks = ["_1", "_2", "_3", "_4"],
     trackUrl = [
-      "MiaSebastiansTheme.mp3",
+      "https://github.com/meipurin/meoww/blob/main/MiaSebastiansTheme.mp3",
 
-"ALovelyNight.mp3.mp3",
+"https://github.com/meipurin/meoww/blob/main/ALovelyNight.mp3",
       
-"SummerMontageMadeline.mp3",
+"https://github.com/meipurin/meoww/blob/main/SummerMontageMadeline.mp3",
       
-"CityofStars.mp3",
+"https://github.com/meipurin/meoww/blob/main/CityofStars.mp3",
     ],
     playPreviousTrackButton = $("#play-previous"),
     playNextTrackButton = $("#play-next"),
